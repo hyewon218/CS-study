@@ -8,8 +8,9 @@
 [5. 라우팅](https://github.com/hyewon218/CS-study/blob/main/docs/Routing.md)<br>
 
 ## 운영체제
-[1. 운영체제 기초](https://github.com/hyewon218/CS-study/blob/main/docs/OperatingSystem.md)
+[1. 운영체제 기초](https://github.com/hyewon218/CS-study/blob/main/docs/OperatingSystem.md)<br>
 [2. 프로세스](https://github.com/hyewon218/CS-study/blob/main/docs/Process.md)<br>
 
 ## 데이터베이스
 [1. 데이터베이스](https://github.com/hyewon218/CS-study/blob/main/docs/Database.md)<br>
+[2. SQL 활용](https://github.com/hyewon218/CS-study/blob/main/docs/SQL.md)<br>
