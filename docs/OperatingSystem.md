@@ -90,10 +90,10 @@
 ## 5. 운영체제의 명령어
 ### Unix 주요 명령어
 - access : 파일 접근 가능 여부 결정
-- chmod : 접근권한 변경
+- `chmod` : **접근권한** 변경
 - close : FCB 닫기
 - chgrp : 파일의 그룹 변경
-- chown : 파일의 소유자 변경
+- `chown` : 파일의 **소유자** 변경
 - chdir : 디렉토리 변경
 - mkdir : 디렉토리 생성
 - rmdir : 디렉토리 삭제
@@ -101,7 +101,7 @@
 - umount : 파일 시스템 제거
 - exit : 프로세스 종료
 - kill : 프로세스 제거
-- fork : 프로세스 생성
+- `fork` : 프로세스 생성
 - getpid : 자산의 프로세스 정보
 - getppid : 부모 프로세스의 ID
 - sleep : 일정시간 중단

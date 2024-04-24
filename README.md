@@ -14,3 +14,6 @@
 ## 데이터베이스
 [1. 데이터베이스](https://github.com/hyewon218/CS-study/blob/main/docs/Database.md)<br>
 [2. SQL 활용](https://github.com/hyewon218/CS-study/blob/main/docs/SQL.md)<br>
+
+## UI 테스트
+[1. 사용자 인터페이스](https://github.com/hyewon218/CS-study/blob/main/docs/UI.md)<br>
